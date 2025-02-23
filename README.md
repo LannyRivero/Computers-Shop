@@ -28,8 +28,6 @@ ComputerStoreProject/
 │   │   │   │   ├── ComputerStore.java
 │   │   │   ├── controllers/
 │   │   │   │   ├── ComputerStoreController.java
-│   │   │   ├── views/
-│   │   │   │   ├── ComputerStoreView.java
 │   ├── test/
 │   │   ├── java/
 │   │   │   ├── tests/
@@ -66,12 +64,15 @@ java -jar target/computer-store.jar
 ## 📊 UML - Diagrama de Clases
 El siguiente diagrama representa la estructura del proyecto:
 
-![UML Diagram](diagrams/computer_store_uml.png)
+![UML Diagram]![image](https://github.com/user-attachments/assets/b883bc0c-c0d6-4a2a-b8e2-cd1f666cf7cc)
+
+
 
 ## ✅ Pruebas Unitarias
 El código ha sido probado con **JUnit**, garantizando una cobertura de pruebas de al menos **70%**. Aquí se muestra una captura de pantalla con la cobertura de pruebas en **VSCode**:
 
-![Test Coverage](screenshots/test_coverage.png)
+![Test Coverage]![image](https://github.com/user-attachments/assets/902ee654-3202-475f-af60-adf72a65208e)
+
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Puedes:
